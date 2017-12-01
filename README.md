@@ -1,10 +1,10 @@
- * **Roll NO-16155 Name:- Manoj Sonje**
+ * **Roll NO-16155           Name:- Manoj Sonje**
 
 # PEER-TO-PEER Chat Application without Server(Wchat).
 
 ## prerequisite
 
-To perform chat between multiple peers , peers should be connected with Ad-hoc (hostspot).
+To perform chat between multiple peers , peers should be connected with Ad-hoc (hotspot).
 
 ### Installing(compilling)
 
